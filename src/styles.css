@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.nav-container {
+  background-color: #ccc;
+  width: 30%;
+  border: solid #ccc;
+}
+
+.nav-list {
+}
+
+.nav-list .nav-item {
+  list-style-type: none;
+  /* float: left; */
+  /* margin: 5px; */
+}
+
+.nav-item a {
+  text-decoration: none;
+}
+
+.page-content {
+  border: 1px solid silver;
+}
